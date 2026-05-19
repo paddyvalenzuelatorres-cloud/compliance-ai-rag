@@ -141,7 +141,6 @@ Ejemplos de consultas
 
 Screenshots
 
-Agregar capturas de la aplicación aquí.
 
 ---
 
